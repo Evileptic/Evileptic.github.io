@@ -1,4 +1,6 @@
 theme: jekyll-theme-leap-day
 title: Evileptic's Portfolio
-description: From Zlodey Studios
-github: https://github.com/Evileptic
+description: from Zlodey Studios
+github:
+  zip_url:
+  another_url: https://github.com/Evileptic
