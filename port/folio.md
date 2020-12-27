@@ -1,15 +1,27 @@
-# Slice Samurai
+# Christmas Keeper - 16.12.2020
 
-**[Google Play](https://play.google.com/store/apps/details?id=com.zlodey.SliceSamurai)**
+**[Google Play](https://play.google.com/store/apps/details?id=com.ZlodeyStudios.ChristmasKeeper)**
+
+**My role:**
+- Game-design
+- Code
+- UI layout
+- Level-design with Assets
+
+![Christmas Keeper](./image006.png)
+
+# Sphere Jump - 16.10.2020
+
+**[Google Play](https://play.google.com/store/apps/details?id=com.ZlodeyStudios.SphereJump)**
 
 **My role:**
 - Code
-- UI layout/artist
-- VFX
+- UI layout
+- Level-design with Assets
 
-![Slice Samurai](./image001.png)
+![Sphere Jump](./image005.png)
 
-# Saboteur!
+# Saboteur! - 16.10.2020
 
 **[Google Play](https://play.google.com/store/apps/details?id=com.zlodeystudios.saboteur)**
 
@@ -20,7 +32,18 @@
 
 ![Saboteur!](./image002.png)
 
-# Bad Fat Cat
+# Ring Boy 13.10.2020
+
+**[Google Play](https://play.google.com/store/apps/details?id=com.ZlodeyStudios.RingBoy)**
+
+**My role:**
+- A little bit of code
+- UI layout
+- Level-design
+
+![Ring Boy](./image004.png)
+
+# Bad Fat Cat - 25.09.2020
 
 **[Google Play](https://play.google.com/store/apps/details?id=com.ZlodeyStudios.BadFatCat)**
 
@@ -33,36 +56,13 @@
 
 ![Bad Fat Cat](./image003.png)
 
-# Ring Boy
+# Slice Samurai - 31.08.2020
 
-**[Google Play](https://play.google.com/store/apps/details?id=com.ZlodeyStudios.RingBoy)**
-
-**My role:**
-- A little bit of code
-- UI layout
-- Level-design
-
-![Ring Boy](./image004.png)
-
-# Sphere Jump
-
-**[Google Play](https://play.google.com/store/apps/details?id=com.ZlodeyStudios.SphereJump)**
+**[Google Play](https://play.google.com/store/apps/details?id=com.zlodey.SliceSamurai)**
 
 **My role:**
 - Code
-- UI layout
-- Level-design with Assets
+- UI layout/artist
+- VFX
 
-![Sphere Jump](./image005.png)
-
-# Christmas Keeper
-
-**[Google Play](https://play.google.com/store/apps/details?id=com.ZlodeyStudios.ChristmasKeeper)**
-
-**My role:**
-- Game-design
-- Code
-- UI layout
-- Level-design with Assets
-
-![Christmas Keeper](./image006.png)
+![Slice Samurai](./image001.png)
