@@ -1,8 +1,8 @@
 # Slice Samurai
 
-[Google Play](https://play.google.com/store/apps/details?id=com.zlodey.SliceSamurai)
+**[Google Play](https://play.google.com/store/apps/details?id=com.zlodey.SliceSamurai)**
 
-### My role:
+**My role:**
 
 - Code
 - UI layout/artist
