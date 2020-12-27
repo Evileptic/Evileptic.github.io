@@ -32,7 +32,7 @@
 
 ![Saboteur!](./image002.png)
 
-# Ring Boy 13.10.2020
+# Ring Boy - 13.10.2020
 
 **[Google Play](https://play.google.com/store/apps/details?id=com.ZlodeyStudios.RingBoy)**
 
