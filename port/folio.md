@@ -1,4 +1,4 @@
-# Christmas Keeper - 16.12.2020
+# Christmas Keeper - 12.20
 
 **[Google Play](https://play.google.com/store/apps/details?id=com.ZlodeyStudios.ChristmasKeeper)**
 
@@ -10,7 +10,7 @@
 
 ![Christmas Keeper](./image006.png)
 
-# Sphere Jump - 16.10.2020
+# Sphere Jump - 10.20
 
 **[Google Play](https://play.google.com/store/apps/details?id=com.ZlodeyStudios.SphereJump)**
 
@@ -21,7 +21,7 @@
 
 ![Sphere Jump](./image005.png)
 
-# Saboteur! - 16.10.2020
+# Saboteur! - 10.20
 
 **[Google Play](https://play.google.com/store/apps/details?id=com.zlodeystudios.saboteur)**
 
@@ -32,7 +32,7 @@
 
 ![Saboteur!](./image002.png)
 
-# Ring Boy - 13.10.2020
+# Ring Boy - 10.20
 
 **[Google Play](https://play.google.com/store/apps/details?id=com.ZlodeyStudios.RingBoy)**
 
@@ -43,7 +43,7 @@
 
 ![Ring Boy](./image004.png)
 
-# Bad Fat Cat - 25.09.2020
+# Bad Fat Cat - 09.20
 
 **[Google Play](https://play.google.com/store/apps/details?id=com.ZlodeyStudios.BadFatCat)**
 
@@ -56,7 +56,7 @@
 
 ![Bad Fat Cat](./image003.png)
 
-# Slice Samurai - 31.08.2020
+# Slice Samurai - 08.20
 
 **[Google Play](https://play.google.com/store/apps/details?id=com.zlodey.SliceSamurai)**
 
