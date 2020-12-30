@@ -1,6 +1,7 @@
 # Tup Tup - Soon
 
-https://www.youtube.com/watch?v=0ogN1m95q7Y
+[Gameplay Video](https://www.youtube.com/watch?v=0ogN1m95q7Y)
+
 
 # Christmas Keeper - 12/20
 
