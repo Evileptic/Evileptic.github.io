@@ -2,6 +2,7 @@
 
 [Gameplay Video](https://www.youtube.com/watch?v=0ogN1m95q7Y)
 
+![Tup Tup](image007.png)
 
 # Christmas Keeper - 12/20
 
