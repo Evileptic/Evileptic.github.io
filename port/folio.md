@@ -1,3 +1,12 @@
+# Synergy Kids Universe - 05/21
+
+**[Google Play](https://play.google.com/store/apps/details?id=com.synergy.kidsuniverse)**
+
+**My role:**
+- Code
+
+![Synergy Kids Universe](./image009.png)
+
 # Swipe Cubes - 01/21
 
 **[Google Play](https://play.google.com/store/apps/details?id=com.EvilepticGames.SwipeCubes)**
