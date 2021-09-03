@@ -1,8 +1,6 @@
 # 2048 Race - 08/21
 
 **[Google Play](https://play.google.com/store/apps/details?id=com.GrigoryMelnikov.Race2048)**
-
-**My role:**
 - Code
 - UI layout
 - Level-design with Assets
@@ -12,8 +10,6 @@
 # Synergy Kids - 05/21
 
 **[Google Play](https://play.google.com/store/apps/details?id=com.synergy.kidsuniverse)**
-
-**My role:**
 - Code
 
 ![Synergy Kids Universe](./image009.png)
@@ -33,8 +29,6 @@
 # Christmas Keeper - 12/20
 
 **[Google Play](https://play.google.com/store/apps/details?id=com.ZlodeyStudios.ChristmasKeeper)**
-
-**My role:**
 - Game-design
 - Code
 - UI layout
@@ -45,8 +39,6 @@
 # Sphere Jump - 10/20
 
 **[Google Play](https://play.google.com/store/apps/details?id=com.ZlodeyStudios.SphereJump)**
-
-**My role:**
 - Code
 - UI layout
 - Level-design with Assets
@@ -56,8 +48,6 @@
 # Saboteur! - 10/20
 
 **[Google Play](https://play.google.com/store/apps/details?id=com.zlodeystudios.saboteur)**
-
-**My role:**
 - Code
 - UI layout
 - Level-design with Assets
@@ -67,8 +57,6 @@
 # Ring Boy - 10/20
 
 **[Google Play](https://play.google.com/store/apps/details?id=com.ZlodeyStudios.RingBoy)**
-
-**My role:**
 - A little bit of code
 - UI layout
 - Level-design
@@ -78,8 +66,6 @@
 # Bad Fat Cat - 09/20
 
 **[Google Play](https://play.google.com/store/apps/details?id=com.ZlodeyStudios.BadFatCat)**
-
-**My role:**
 - Game-design
 - Code
 - UI layout/artist
@@ -91,8 +77,6 @@
 # Slice Samurai - 08/20
 
 **[Google Play](https://play.google.com/store/apps/details?id=com.zlodey.SliceSamurai)**
-
-**My role:**
 - Code
 - UI layout/artist
 - VFX
