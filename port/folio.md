@@ -1,3 +1,14 @@
+# 2048 Race - 08/21
+
+**[Google Play](https://play.google.com/store/apps/details?id=com.GrigoryMelnikov.Race2048)**
+
+**My role:**
+- Code
+- UI layout
+- Level-design with Assets
+
+![2048 Race](./image010.png)
+
 # Synergy Kids - 05/21
 
 **[Google Play](https://play.google.com/store/apps/details?id=com.synergy.kidsuniverse)**
