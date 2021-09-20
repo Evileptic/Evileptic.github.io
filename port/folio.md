@@ -47,7 +47,8 @@
 
 # Saboteur! - 10/20
 
-**[Google Play](https://play.google.com/store/apps/details?id=com.zlodeystudios.saboteur)**
+**[Google Play (emporarily unavailable)](https://play.google.com/store/apps/details?id=com.zlodeystudios.saboteur)**
+**[Watch video](https://www.youtube.com/watch?v=0rfveSfv-X4)**
 - Code
 - UI layout
 - Level-design with Assets
