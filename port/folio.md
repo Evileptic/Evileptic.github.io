@@ -1,4 +1,4 @@
-# Idle Store Delivery - 01/22
+# Store Delivery - 01/22
 
 **[Google Play](https://play.google.com/store/apps/details?id=com.wpg.idlestoredelivery)**
 
