@@ -1,3 +1,9 @@
+# Idle Store Delivery - 01/22
+
+**[Google Play](https://play.google.com/store/apps/details?id=com.wpg.idlestoredelivery)**
+
+![Idle Store Delivery](./image013.png)
+
 # Mini Loop - 11/21
 
 **[Google Play](https://play.google.com/store/apps/details?id=com.ZlodeyStudios.MiniLoop)**
