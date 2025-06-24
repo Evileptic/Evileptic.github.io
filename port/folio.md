@@ -1,3 +1,21 @@
+# SHOWDOWN - 04/23
+
+**[Video](https://www.youtube.com/watch?v=HwOqr8_Lfmw&ab_channel=LitGames)**
+
+![SHOWDOWN](./image016.png)
+
+# ACE : IDLE CARD BATTLE & STORY - 08/22
+
+**[Video](https://www.youtube.com/watch?v=cEOg9qtqYFA&ab_channel=TueurDeBikette)**
+
+![ACE](./image015.jpeg)
+
+# Synergy Kids - 05/22
+
+**[Google Play](https://play.google.com/store/apps/details?id=com.synergy.kidsuniverse)**
+
+![Synergy Kids Universe](./image009.png)
+
 # What Is It Io - 04/22
 
 **[Google Play](https://play.google.com/store/apps/details?id=com.ZlodeyStudios.SmoothieBar)**
@@ -27,12 +45,6 @@
 **[Google Play](https://play.google.com/store/apps/details?id=com.GrigoryMelnikov.Race2048)**
 
 ![2048 Race](./image010.png)
-
-# Synergy Kids - 05/21
-
-**[Google Play](https://play.google.com/store/apps/details?id=com.synergy.kidsuniverse)**
-
-![Synergy Kids Universe](./image009.png)
 
 # Swipe Cubes - 01/21
 
@@ -81,6 +93,5 @@
 # Slice Samurai - 08/20
 
 **[Google Play](https://play.google.com/store/apps/details?id=com.zlodey.SliceSamurai)**
-
 
 ![Slice Samurai](./image001.png)
